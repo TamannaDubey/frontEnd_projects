@@ -1,6 +1,6 @@
 # frontEnd_projects-
 
-##1st project:🔢 Calculator Web App
+## First Project:🔢 Calculator Web App
 A fully responsive and interactive calculator built with HTML, CSS, and JavaScript. This project performs basic arithmetic operations and serves as a neat demonstration of front-end development skills.
 
 ## 🚀 Features
